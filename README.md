@@ -11,6 +11,7 @@ The Data & Hypothesis Tested
 To answer this, I framed a hypothesis test:
 
 Null Hypothesis (H₀): Healthier foods do not cost less than other healthy foods.
+
 Alternative Hypothesis (H₁): Healthier foods cost less than other healthy foods.
 
 The SQL queries extracted, processed, and analyzed food pricing data to test this hypothesis. SQL Queries and Insights Extracted: 
