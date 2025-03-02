@@ -33,6 +33,9 @@ The SQL queries extracted, processed, and analyzed food pricing data to test thi
 Final Answer to the Question
 
 🚨 Healthier foods (low sodium & low fat) do NOT cost less than other healthy foods.
+
 💡 Business Impact: Whole Foods (or similar retailers) should justify premium pricing through marketing & customer loyalty programs rather than price cuts.
+
 📈 Market Strategy: Targeting vegan & vegetarian consumers with community-driven campaigns can improve brand loyalty and customer acquisition.
+
 📦 Inventory Optimization: Expanding healthier food options based on demand data can increase profitability.
